@@ -6,18 +6,7 @@
 
 ###
 
-<h5 align="left">Developer for over 3 years, specifically working in the back-end area, in e-commerce systems and digital marketing systems. <br>I frequently use PHP, JavaScript, jQuery and MySql.<br>I also configure servers using Linux.<br>I study daily to improve my front-end skills.</h5>
-
-###
-
-<h2 align="left">🔥My Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=estevaotl&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=estevaotl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h5 align="left">Developer for over 4 years, specifically working in the back-end area, in e-commerce systems and digital marketing systems. <br>I frequently PHP, JavaScript, jQuery, MySQL, MongoDB, AWS, and Twig.<br>I also configure servers using Linux.<br>I study daily to improve my front-end skills.</h5>
 
 ###
 
@@ -68,11 +57,5 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/estevaotl/estevaotl/output/snake.svg" alt="Snake animation" />
 
 ###
