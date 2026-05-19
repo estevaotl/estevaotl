@@ -6,7 +6,11 @@
 
 ###
 
-<h5 align="left">Developer for over 4 years, specifically working in the back-end area, in e-commerce systems and digital marketing systems. <br>I frequently PHP, JavaScript, jQuery, MySQL, MongoDB, AWS, and Twig.<br>I also configure servers using Linux.<br>I study daily to improve my front-end skills.</h5>
+<h5 align="left">
+  👋 Hi! I'm a Full Stack Developer with over 6 years of experience building scalable applications, with a strong background in Back-end architecture, E-commerce, Digital Marketing, and Healthcare systems. <br><br>
+  🚀 Currently focused on <b>Laravel, Vue.js, Docker, and AWS infrastructure</b>. I have a proven track record of leading small technical teams, optimizing database queries by up to 90%, and designing cloud architectures from scratch to handle high-traffic spikes (scaling systems to reach R$ 1M+ in sales events). <br><br>
+  🐧 Proficient in server configuration (Linux/AWS) and continuously driving performance and security across the entire stack.
+</h5>
 
 ###
 
@@ -38,7 +42,14 @@
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vue logo"  />
 </div>
+
 
 ###
 
